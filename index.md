@@ -3,11 +3,11 @@
 포트폴리오([info.yeopeva.me](https://info.yeopeva.me))에 실린 항목의 근거 자료를 한곳에 모았습니다.
 각 행의 **포트폴리오** 링크를 누르면 그 자료가 어떤 항목의 근거인지 확인할 수 있습니다.
 
-**총 80건 · 9,919 KB.** 전부 마스킹본이며 원본(무마스킹)은 올리지 않습니다 — 정책은 [README](README.md)에 있습니다.
+**총 81건 · 10,122 KB.** 전부 마스킹본이며 원본(무마스킹)은 올리지 않습니다 — 정책은 [README](README.md)에 있습니다.
 
 | 구분 | 건수 | 위치 |
 |---|---|---|
-| 수상 상장 | 23 | `evidence/awards/` |
+| 수상 상장 | 24 | `evidence/awards/` |
 | 자격 · 인증 | 6 | `evidence/certificates/` |
 | 교육과정 이수증 | 4 | `evidence/training/` |
 | 단기 교육 · 훈련 수료증 | 30 | `evidence/training/` |
@@ -16,12 +16,13 @@
 | 분석 화면 캡처 | 4 | `reports/figures/` |
 | 분석 보고서 발췌 | 1 | `reports/` |
 
-## 수상 상장 (23건)
+## 수상 상장 (24건)
 
 수상 항목의 상장 사본입니다. 부록 페이지(`그 외 수상`)에만 실린 항목도 함께 넣었습니다.
 
 | 항목 | 자료 | 설명 | 크기 | 포트폴리오 |
 |---|---|---|---|---|
+| 제3회 정보보호 교육·훈련 사이버공격·방어 시나리오 경진대회 | [`athena-2026.jpg`](evidence/awards/athena-2026.jpg) | 상장 이미지 · 2026.09.18 | 203 KB | [보기](https://info.yeopeva.me/awards/athena-2026.html) |
 | 2024-2 창의도전학기 사례발표회 | [`creative-challenge-2024.jpg`](evidence/awards/creative-challenge-2024.jpg) | 상장 이미지 | 87 KB | [보기](https://info.yeopeva.me/awards/creative-challenge-2024.html) |
 | 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_1.jpg`](evidence/awards/digital-criminal-finder_1.jpg) | 제8회 (2022) 이미지 | 114 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
 | 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_2.jpg`](evidence/awards/digital-criminal-finder_2.jpg) | 제9회 (2023) 이미지 | 118 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
