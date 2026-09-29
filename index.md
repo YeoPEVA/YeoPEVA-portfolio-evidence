@@ -3,12 +3,12 @@
 포트폴리오([info.yeopeva.me](https://info.yeopeva.me))에 실린 항목의 근거 자료를 한곳에 모았습니다.
 각 행의 **포트폴리오** 링크를 누르면 그 자료가 어떤 항목의 근거인지 확인할 수 있습니다.
 
-**총 81건 · 10,044 KB.** 전부 마스킹본이며 원본(무마스킹)은 올리지 않습니다 — 정책은 [README](README.md)에 있습니다.
+**총 83건 · 10,458 KB.** 전부 마스킹본이며 원본(무마스킹)은 올리지 않습니다 — 정책은 [README](README.md)에 있습니다.
 
 | 구분 | 건수 | 위치 |
 |---|---|---|
 | 수상 상장 | 24 | `evidence/awards/` |
-| 자격 · 인증 | 6 | `evidence/certificates/` |
+| 자격 · 인증 | 8 | `evidence/certificates/` |
 | 교육과정 이수증 | 4 | `evidence/training/` |
 | 단기 교육 · 훈련 수료증 | 30 | `evidence/training/` |
 | 활동 · 참여 증빙 | 6 | `evidence/participation/` |
@@ -47,7 +47,7 @@
 | 2024 제22회 TOPCIT 정기평가 | [`topcit-2024.jpg`](evidence/awards/topcit-2024.jpg) | 상장 이미지 | 199 KB | [보기](https://info.yeopeva.me/awards/topcit-2024.html) |
 | 제1회 영남권 사이버 공격 방어 대회 | [`yeongnam-cyber-defense.jpg`](evidence/awards/yeongnam-cyber-defense.jpg) | 상장 이미지 | 134 KB | [보기](https://info.yeopeva.me/awards/yeongnam-cyber-defense.html) |
 
-## 자격 · 인증 (6건)
+## 자격 · 인증 (8건)
 
 취득 자격증·벤더 인증 사본입니다. 포트폴리오 첫 화면의 `자격 & 취득 이력` 목록에서 연결됩니다.
 
@@ -56,6 +56,8 @@
 | AWS Certified Solutions Architect – Associate | [`aws-saa.jpg`](evidence/certificates/aws-saa.jpg) | 자격증 사본 · 2023.07 – 2026.07 만료 | 77 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | 디지털포렌식 2급 | [`digital-forensics.jpg`](evidence/certificates/digital-forensics.jpg) | 자격증 사본 · 2022.12 – 2028.12 | 84 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | Exterro ACE (AccessData) | [`exterro-ace.jpg`](evidence/certificates/exterro-ace.jpg) | 자격증 사본 · 2022.01 – 2024.01 만료 | 135 KB | [보기](https://info.yeopeva.me/index.html#skills) |
+| 정보기기운용기능사 | [`info-equipment.jpg`](evidence/certificates/info-equipment.jpg) | 국가기술자격 취득사항 확인서 · 2022.12 취득 | 128 KB | [보기](https://info.yeopeva.me/index.html#skills) |
+| 정보기기운용기능사 | [`info-equipment.pdf`](evidence/certificates/info-equipment.pdf) | 같은 확인서의 가명·마스킹 PDF (텍스트 레이어 없음) | 286 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | 인터넷정보관리사 2급 | [`internet-manager.jpg`](evidence/certificates/internet-manager.jpg) | 자격증 사본 · 2020.10 취득 | 89 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | 리눅스마스터 2급 | [`linux-master.jpg`](evidence/certificates/linux-master.jpg) | 자격증 사본 · 2019.10 취득 | 88 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | 네트워크관리사 2급 | [`network-admin.jpg`](evidence/certificates/network-admin.jpg) | 자격증 사본 · 2016.12 – 2031.12 | 115 KB | [보기](https://info.yeopeva.me/index.html#skills) |
