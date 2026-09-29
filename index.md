@@ -57,7 +57,7 @@
 | 디지털포렌식 2급 | [`digital-forensics.jpg`](evidence/certificates/digital-forensics.jpg) | 자격증 사본 · 2022.12 – 2028.12 | 84 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | Exterro ACE (AccessData) | [`exterro-ace.jpg`](evidence/certificates/exterro-ace.jpg) | 자격증 사본 · 2022.01 – 2024.01 만료 | 135 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | 정보기기운용기능사 | [`info-equipment.jpg`](evidence/certificates/info-equipment.jpg) | 국가기술자격 취득사항 확인서 · 2022.12 취득 | 128 KB | [보기](https://info.yeopeva.me/index.html#skills) |
-| 정보기기운용기능사 | [`info-equipment.pdf`](evidence/certificates/info-equipment.pdf) | 같은 확인서의 가명·마스킹 PDF (텍스트 레이어 없음) | 286 KB | [보기](https://info.yeopeva.me/index.html#skills) |
+| 정보기기운용기능사 | [`info-equipment.pdf`](evidence/certificates/info-equipment.pdf) | 같은 확인서의 마스킹 PDF (텍스트 레이어 없음) | 286 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | 인터넷정보관리사 2급 | [`internet-manager.jpg`](evidence/certificates/internet-manager.jpg) | 자격증 사본 · 2020.10 취득 | 89 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | 리눅스마스터 2급 | [`linux-master.jpg`](evidence/certificates/linux-master.jpg) | 자격증 사본 · 2019.10 취득 | 88 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | 네트워크관리사 2급 | [`network-admin.jpg`](evidence/certificates/network-admin.jpg) | 자격증 사본 · 2016.12 – 2031.12 | 115 KB | [보기](https://info.yeopeva.me/index.html#skills) |
