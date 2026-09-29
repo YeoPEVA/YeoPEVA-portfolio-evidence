@@ -3,12 +3,12 @@
 포트폴리오([info.yeopeva.me](https://info.yeopeva.me))에 실린 항목의 근거 자료를 한곳에 모았습니다.
 각 행의 **포트폴리오** 링크를 누르면 그 자료가 어떤 항목의 근거인지 확인할 수 있습니다.
 
-**총 81건 · 10,122 KB.** 전부 마스킹본이며 원본(무마스킹)은 올리지 않습니다 — 정책은 [README](README.md)에 있습니다.
+**총 83건 · 10,458 KB.** 전부 마스킹본이며 원본(무마스킹)은 올리지 않습니다 — 정책은 [README](README.md)에 있습니다.
 
 | 구분 | 건수 | 위치 |
 |---|---|---|
 | 수상 상장 | 24 | `evidence/awards/` |
-| 자격 · 인증 | 6 | `evidence/certificates/` |
+| 자격 · 인증 | 8 | `evidence/certificates/` |
 | 교육과정 이수증 | 4 | `evidence/training/` |
 | 단기 교육 · 훈련 수료증 | 30 | `evidence/training/` |
 | 활동 · 참여 증빙 | 6 | `evidence/participation/` |
@@ -22,12 +22,12 @@
 
 | 항목 | 자료 | 설명 | 크기 | 포트폴리오 |
 |---|---|---|---|---|
-| 제3회 정보보호 교육·훈련 사이버공격·방어 시나리오 경진대회 | [`athena-2026.jpg`](evidence/awards/athena-2026.jpg) | 상장 이미지 · 2026.09.18 | 203 KB | [보기](https://info.yeopeva.me/awards/athena-2026.html) |
+| 제3회 정보보호 교육·훈련 사이버공격·방어 시나리오 경진대회 | [`athena-2026.jpg`](evidence/awards/athena-2026.jpg) | 상장 스캔 · 2026.09.18 | 207 KB | [보기](https://info.yeopeva.me/awards/athena-2026.html) |
 | 2024-2 창의도전학기 사례발표회 | [`creative-challenge-2024.jpg`](evidence/awards/creative-challenge-2024.jpg) | 상장 이미지 | 87 KB | [보기](https://info.yeopeva.me/awards/creative-challenge-2024.html) |
 | 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_1.jpg`](evidence/awards/digital-criminal-finder_1.jpg) | 제8회 (2022) 이미지 | 114 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
 | 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_2.jpg`](evidence/awards/digital-criminal-finder_2.jpg) | 제9회 (2023) 이미지 | 118 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
-| 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_3.jpg`](evidence/awards/digital-criminal-finder_3.jpg) | 제10회 (2024) 이미지 | 188 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
-| 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_4.jpg`](evidence/awards/digital-criminal-finder_4.jpg) | 제11회 (2025) 이미지 | 216 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
+| 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_3.jpg`](evidence/awards/digital-criminal-finder_3.jpg) | 제10회 (2024) 상장 스캔 | 153 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
+| 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_4.jpg`](evidence/awards/digital-criminal-finder_4.jpg) | 제11회 (2025) 상장 스캔 | 144 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
 | 2024 제5회 호남사이버보안컨퍼런스 대학간 침해대응/분석 경진대회 | [`honam-cybersecurity-2024.jpg`](evidence/awards/honam-cybersecurity-2024.jpg) | 상장 이미지 | 102 KB | [보기](https://info.yeopeva.me/awards/honam-cybersecurity-2024.html) |
 | 2025 제6회 호남 사이버보안 콘퍼런스 침해대응 경진대회 | [`honam-cybersecurity-2025.jpg`](evidence/awards/honam-cybersecurity-2025.jpg) | 상장 이미지 | 174 KB | [보기](https://info.yeopeva.me/awards/honam-cybersecurity-2025.html) |
 | 2020년도 한국디지털포렌식학회 디지털포렌식 챌린지 | [`kdfs-challenge-2020.jpg`](evidence/awards/kdfs-challenge-2020.jpg) | 상장 이미지 | 143 KB | [보기](https://info.yeopeva.me/awards/kdfs-challenge-2020.html) |
@@ -47,7 +47,7 @@
 | 2024 제22회 TOPCIT 정기평가 | [`topcit-2024.jpg`](evidence/awards/topcit-2024.jpg) | 상장 이미지 | 199 KB | [보기](https://info.yeopeva.me/awards/topcit-2024.html) |
 | 제1회 영남권 사이버 공격 방어 대회 | [`yeongnam-cyber-defense.jpg`](evidence/awards/yeongnam-cyber-defense.jpg) | 상장 이미지 | 134 KB | [보기](https://info.yeopeva.me/awards/yeongnam-cyber-defense.html) |
 
-## 자격 · 인증 (6건)
+## 자격 · 인증 (8건)
 
 취득 자격증·벤더 인증 사본입니다. 포트폴리오 첫 화면의 `자격 & 취득 이력` 목록에서 연결됩니다.
 
@@ -56,9 +56,11 @@
 | AWS Certified Solutions Architect – Associate | [`aws-saa.jpg`](evidence/certificates/aws-saa.jpg) | 자격증 사본 · 2023.07 – 2026.07 만료 | 77 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | 디지털포렌식 2급 | [`digital-forensics.jpg`](evidence/certificates/digital-forensics.jpg) | 자격증 사본 · 2022.12 – 2028.12 | 84 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | Exterro ACE (AccessData) | [`exterro-ace.jpg`](evidence/certificates/exterro-ace.jpg) | 자격증 사본 · 2022.01 – 2024.01 만료 | 135 KB | [보기](https://info.yeopeva.me/index.html#skills) |
+| 정보기기운용기능사 | [`info-equipment.jpg`](evidence/certificates/info-equipment.jpg) | 국가기술자격 취득사항 확인서 · 2022.12 취득 | 128 KB | [보기](https://info.yeopeva.me/index.html#skills) |
+| 정보기기운용기능사 | [`info-equipment.pdf`](evidence/certificates/info-equipment.pdf) | 같은 확인서의 마스킹 PDF (텍스트 레이어 없음) | 286 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | 인터넷정보관리사 2급 | [`internet-manager.jpg`](evidence/certificates/internet-manager.jpg) | 자격증 사본 · 2020.10 취득 | 89 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 | 리눅스마스터 2급 | [`linux-master.jpg`](evidence/certificates/linux-master.jpg) | 자격증 사본 · 2019.10 취득 | 88 KB | [보기](https://info.yeopeva.me/index.html#skills) |
-| 네트워크관리사 2급 | [`network-admin.jpg`](evidence/certificates/network-admin.jpg) | 자격증 사본 · 2016.12 – 2026.12 | 90 KB | [보기](https://info.yeopeva.me/index.html#skills) |
+| 네트워크관리사 2급 | [`network-admin.jpg`](evidence/certificates/network-admin.jpg) | 자격증 사본 · 2016.12 – 2031.12 | 115 KB | [보기](https://info.yeopeva.me/index.html#skills) |
 
 ## 교육과정 이수증 (4건)
 
