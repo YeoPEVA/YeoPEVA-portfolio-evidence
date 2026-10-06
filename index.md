@@ -24,10 +24,10 @@
 |---|---|---|---|---|
 | 제3회 정보보호 교육·훈련 사이버공격·방어 시나리오 경진대회 | [`athena-2026.jpg`](evidence/awards/athena-2026.jpg) | 상장 스캔 · 2026.09.18 | 207 KB | [보기](https://info.yeopeva.me/awards/athena-2026.html) |
 | 2024-2 창의도전학기 사례발표회 | [`creative-challenge-2024.jpg`](evidence/awards/creative-challenge-2024.jpg) | 상장 이미지 | 87 KB | [보기](https://info.yeopeva.me/awards/creative-challenge-2024.html) |
-| 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_1.jpg`](evidence/awards/digital-criminal-finder_1.jpg) | 제8회 (2022) 이미지 | 114 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
-| 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_2.jpg`](evidence/awards/digital-criminal-finder_2.jpg) | 제9회 (2023) 이미지 | 118 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
-| 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_3.jpg`](evidence/awards/digital-criminal-finder_3.jpg) | 제10회 (2024) 상장 스캔 | 153 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
-| 제8~11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_4.jpg`](evidence/awards/digital-criminal-finder_4.jpg) | 제11회 (2025) 상장 스캔 | 144 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder.html) |
+| 제8회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_1.jpg`](evidence/awards/digital-criminal-finder_1.jpg) | 이미지 · 2022.12.15 | 114 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder-8.html) |
+| 제9회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_2.jpg`](evidence/awards/digital-criminal-finder_2.jpg) | 이미지 · 2023.12.18 | 118 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder-9.html) |
+| 제10회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_3.jpg`](evidence/awards/digital-criminal-finder_3.jpg) | 상장 스캔 · 2024.12.17 | 153 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder-10.html) |
+| 제11회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_4.jpg`](evidence/awards/digital-criminal-finder_4.jpg) | 상장 스캔 · 2025.12.16 | 144 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder-11.html) |
 | 2024 제5회 호남사이버보안컨퍼런스 대학간 침해대응/분석 경진대회 | [`honam-cybersecurity-2024.jpg`](evidence/awards/honam-cybersecurity-2024.jpg) | 상장 이미지 | 102 KB | [보기](https://info.yeopeva.me/awards/honam-cybersecurity-2024.html) |
 | 2025 제6회 호남 사이버보안 콘퍼런스 침해대응 경진대회 | [`honam-cybersecurity-2025.jpg`](evidence/awards/honam-cybersecurity-2025.jpg) | 상장 이미지 | 174 KB | [보기](https://info.yeopeva.me/awards/honam-cybersecurity-2025.html) |
 | 2020년도 한국디지털포렌식학회 디지털포렌식 챌린지 | [`kdfs-challenge-2020.jpg`](evidence/awards/kdfs-challenge-2020.jpg) | 상장 이미지 | 143 KB | [보기](https://info.yeopeva.me/awards/kdfs-challenge-2020.html) |
