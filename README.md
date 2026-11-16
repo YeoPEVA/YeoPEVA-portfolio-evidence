@@ -15,13 +15,13 @@
 
 📌 전체 목록은 [`index.md`](index.md)에서 확인할 수 있습니다.
 
-### 수록 현황 (2026.09 기준 · 83건)
+### 수록 현황 (2026.11 기준 · 85건)
 
 | 구분 | 건수 | 위치 |
 |---|---|---|
-| 수상 상장 | 24 | `evidence/awards/` |
+| 수상 상장 | 25 | `evidence/awards/` |
 | 자격 · 인증 | 8 | `evidence/certificates/` |
-| 교육 · 훈련 이수증 | 34 | `evidence/training/` |
+| 교육 · 훈련 이수증 | 35 | `evidence/training/` |
 | 활동 · 참여 증빙 | 6 | `evidence/participation/` |
 | 논문 제목 · 요약 캡처 | 6 | `reports/papers/` |
 | 분석 화면 캡처 | 4 | `reports/figures/` |

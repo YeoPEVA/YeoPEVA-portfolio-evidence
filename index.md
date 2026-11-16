@@ -3,20 +3,20 @@
 포트폴리오([info.yeopeva.me](https://info.yeopeva.me))에 실린 항목의 근거 자료를 한곳에 모았습니다.
 각 행의 **포트폴리오** 링크를 누르면 그 자료가 어떤 항목의 근거인지 확인할 수 있습니다.
 
-**총 83건 · 10,458 KB.** 전부 마스킹본이며 원본(무마스킹)은 올리지 않습니다 — 정책은 [README](README.md)에 있습니다.
+**총 85건 · 10,711 KB.** 전부 마스킹본이며 원본(무마스킹)은 올리지 않습니다 — 정책은 [README](README.md)에 있습니다.
 
 | 구분 | 건수 | 위치 |
 |---|---|---|
-| 수상 상장 | 24 | `evidence/awards/` |
+| 수상 상장 | 25 | `evidence/awards/` |
 | 자격 · 인증 | 8 | `evidence/certificates/` |
 | 교육과정 이수증 | 4 | `evidence/training/` |
-| 단기 교육 · 훈련 수료증 | 30 | `evidence/training/` |
+| 단기 교육 · 훈련 수료증 | 31 | `evidence/training/` |
 | 활동 · 참여 증빙 | 6 | `evidence/participation/` |
 | 논문 제목 · 요약 캡처 | 6 | `reports/papers/` |
 | 분석 화면 캡처 | 4 | `reports/figures/` |
 | 분석 보고서 발췌 | 1 | `reports/` |
 
-## 수상 상장 (24건)
+## 수상 상장 (25건)
 
 수상 항목의 상장 사본입니다. 부록 페이지(`그 외 수상`)에만 실린 항목도 함께 넣었습니다.
 
@@ -24,6 +24,7 @@
 |---|---|---|---|---|
 | 제3회 정보보호 교육·훈련 사이버공격·방어 시나리오 경진대회 | [`athena-2026.jpg`](evidence/awards/athena-2026.jpg) | 상장 스캔 · 2026.09.18 | 207 KB | [보기](https://info.yeopeva.me/awards/athena-2026.html) |
 | 2024-2 창의도전학기 사례발표회 | [`creative-challenge-2024.jpg`](evidence/awards/creative-challenge-2024.jpg) | 상장 이미지 | 87 KB | [보기](https://info.yeopeva.me/awards/creative-challenge-2024.html) |
+| 디지털포렌식챌린지 2026 | [`dfc-2026.jpg`](evidence/awards/dfc-2026.jpg) | 상장 스캔 · 2026.11.10 | 138 KB | [보기](https://info.yeopeva.me/awards/dfc-2026.html) |
 | 제8회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_1.jpg`](evidence/awards/digital-criminal-finder_1.jpg) | 이미지 · 2022.12.15 | 114 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder-8.html) |
 | 제9회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_2.jpg`](evidence/awards/digital-criminal-finder_2.jpg) | 이미지 · 2023.12.18 | 118 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder-9.html) |
 | 제10회 디지털 범인을 찾아라 경진대회 | [`digital-criminal-finder_3.jpg`](evidence/awards/digital-criminal-finder_3.jpg) | 상장 스캔 · 2024.12.17 | 153 KB | [보기](https://info.yeopeva.me/awards/digital-criminal-finder-10.html) |
@@ -73,12 +74,13 @@
 | 순천향대학교 | [`sch-frontier.jpg`](evidence/training/sch-frontier.jpg) | 제4기 SW프런티어 수료증 | 76 KB | [보기](https://info.yeopeva.me/education/sch-university.html) |
 | 순천향대학교 | [`sch-startup-club.jpg`](evidence/training/sch-startup-club.jpg) | 창업동아리 활동증명서 | 92 KB | [보기](https://info.yeopeva.me/education/sch-university.html) |
 
-## 단기 교육 · 훈련 수료증 (30건)
+## 단기 교육 · 훈련 수료증 (31건)
 
 KISA·국방부·NIPA·OSSCA·정보보호영재교육원 등 단기 교육 수료증입니다.
 
 | 항목 | 자료 | 설명 | 크기 | 포트폴리오 |
 |---|---|---|---|---|
+| 그 외 교육·훈련 이수 내역 | [`chungcheong-cluster-2026-smart-mobility.jpg`](evidence/training/chungcheong-cluster-2026-smart-mobility.jpg) | 스마트 모빌리티 보안 전문인력 양성교육 증빙 이미지 | 115 KB | [보기](https://info.yeopeva.me/education/other-training.html) |
 | 그 외 교육·훈련 이수 내역 | [`cstec-2017-highschool-leader.jpg`](evidence/training/cstec-2017-highschool-leader.jpg) | 사이버안전훈련센터 고교생 보안리더 양성과정 증빙 이미지 | 99 KB | [보기](https://info.yeopeva.me/education/other-training.html) |
 | 그 외 교육·훈련 이수 내역 | [`cstec-2018-gifted-training.jpg`](evidence/training/cstec-2018-gifted-training.jpg) | 사이버안전훈련센터 정보보안 영재대상 교육훈련 증빙 이미지 | 97 KB | [보기](https://info.yeopeva.me/education/other-training.html) |
 | 그 외 교육·훈련 이수 내역 | [`daegu-2018-leadership.jpg`](evidence/training/daegu-2018-leadership.jpg) | 대구대학교 인성개발과 리더십 과정 증빙 이미지 | 115 KB | [보기](https://info.yeopeva.me/education/other-training.html) |
